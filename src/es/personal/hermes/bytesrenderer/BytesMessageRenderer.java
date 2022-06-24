@@ -1,4 +1,4 @@
-package es.carmelonhaldon.hermes.bytesrenderer;
+package es.personal.hermes.bytesrenderer;
 
 import javax.jms.JMSException;
 import javax.jms.MapMessage;
